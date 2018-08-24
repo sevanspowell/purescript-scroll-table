@@ -1,0 +1,18 @@
+{
+  "name": "scroll-table",
+  "set": "psc-0.12.0-20180819",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "console",
+    "effect",
+    "prelude",
+    "psci-support",
+    "halogen",
+    "affjax",
+    "random",
+    "css",
+    "halogen-css",
+    "web-html",
+    "halogen-select"
+  ]
+}
